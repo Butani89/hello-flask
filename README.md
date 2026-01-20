@@ -12,3 +12,6 @@ A minimal Flask application demonstrating the basics of Python web development.
 ## Usage
 
 Open http://localhost:5000 in your browser.
+
+## Testing
+Testing
