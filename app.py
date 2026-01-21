@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Hello and Goodbye! NEW Testing 2222222'
+    return 'Is this the new branch?'
 
 
 if __name__ == '__main__':
